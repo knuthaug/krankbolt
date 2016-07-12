@@ -56,7 +56,7 @@ layout: default
       <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
     </span>
     {% endif %}
-    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    <span class="page-number">Side {{ paginator.page }} av {{ paginator.total_pages }}</span>
     {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
       <a class="newer-posts" href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/">
