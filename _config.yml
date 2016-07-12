@@ -50,6 +50,9 @@ descriptions:
   - cat: Ritt
     desc: "Rittrapporter"
 
+  - cat: Stæsj
+    desc: "Stæsj"
+
   - cat: Turer
     desc: "Ut på tur, nesten aldri sur."
 
