@@ -40,6 +40,7 @@ task :post do
     post.puts "date: #{date}"
     post.puts "published: false"
     post.puts "tags: "
+    post.puts "categories: "
     post.puts "---"
   end
 end # task :post
