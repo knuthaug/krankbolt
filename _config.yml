@@ -50,8 +50,11 @@ descriptions:
   - cat: Ritt
     desc: "Rittrapporter"
 
-  - cat: Stæsj
+  - cat: Stash
     desc: "Stæsj"
+
+  - cat: Trening
+    desc: "Trening"
 
   - cat: Turer
     desc: "Ut på tur, nesten aldri sur."
