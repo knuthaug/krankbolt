@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Beitostølen i høstferien"
+date: 2014-10-07
+published: true
+tags: tur beito
+categories: Turer
+---
+
+<img src="/assets/beito.jpg" alt="Beitostølen"/>
+
+
+Soloppgang på Beitostølen, høstferie.
