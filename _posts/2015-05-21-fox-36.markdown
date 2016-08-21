@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Fox 36"
+date: 2015-05-21
+published: ture
+tags: stash fox enduro
+categories: Stash
+---
+
+<img src="/assets/fox.jpg" alt="Fox 36"/>
+
+Sweet lettbrukt fox 36 rc2 160mm på stisykkelen. Dette blir kos.
