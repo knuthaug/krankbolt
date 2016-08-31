@@ -9,7 +9,7 @@ categories: Stash
 
 Jeg har siden jeg startet å sykle brukt et billig kassettverktøy fra Biltema. Kjekt syntes jeg, at det hadde skrallefeste og jeg tenkte ikke mere over det. Det bare  funket. 
 
-<img src="/assets/kasset1.jpg" alt="Biltema" />
+<img src="/assets/kasset1jpg" alt="Biltema" />
 
 Men så en dag da jeg festet en XX1-kassett (dyre greier, som du kanskje vet) merket jeg et glipptak som ikke skulle vært der, akkurat når jeg nærmet meg de påkrevde 40 Nm. Og det kan fort gå galt. 
 
