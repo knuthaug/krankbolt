@@ -69,6 +69,14 @@ pre code.hljs {
   }
 }
 
+.post-picture {
+   background-position: 50% 50%;
+   background-size: cover;
+   min-width: 100%;
+   min-height: 270px;
+}
+
+
 .site-header-container, .post-header-container {
 	width: 100%;
 	text-align: center;
