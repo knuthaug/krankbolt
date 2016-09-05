@@ -2,6 +2,7 @@
 layout: post
 title: "Terrengsykkelrittet 2015"
 date: 2015-06-01
+image: /assets/tsr.jpg
 published: true
 tags: terrengsykkelrittet mtb 
 categories: Ritt
