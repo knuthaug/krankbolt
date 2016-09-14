@@ -21,6 +21,10 @@ Vi ankom Geneve og fiksa en leiebil som tok oss til den bittelille byen St. Luc 
 
 Første dagen ble brukt i fjellene over St. Luc. Vi tok første funikular opp 8 om morgenen og tråkket i vei. Et par litt tvilsomme veivalg ga oss lit knot i starten men for noen nedkjøringer det ga etterpå! Og alt foregikk over 2500 moh. Utsikten var det ikke mye å si på. Kuer med enorme bjeller rundt halsen rett som det var, og bratte singeltracks. Vi holdt oss i fjellene rundt Hotell Weisshorn selv om det skulle være bra stier på den andre siden også. 
 
+<a href="/assets/sveits2b_b.jpg" data-lightbox="dogstar-1" data-title="Gressenger og fjelltopper">
+  <img src="/assets/sveits2b_s.jpg" title="Gressenger og fjelltopper">
+</a>
+
 <a href="/assets/sveits2_b.jpg" data-lightbox="dogstar-1" data-title="Sveitserne setter opp store trekors overalt. ">
   <img src="/assets/sveits2_s.jpg" title="Sveitserne setter opp store trekors overalt.">
 </a>
@@ -52,7 +56,7 @@ Her ble det en del gåing pga. bratte, steinete switchbacks, men mye flyt til ti
   <img src="/assets/sveits6_s.jpg" title="På vei mot Sunnegga" />
 </a>
 
-En runde opp med heisen og ned igjen på en nydelig teknisk sti før asvlutningen av dagen skulle starte. Gondolen opp til Rothorn og så til venstre og nedover mot dalen, og følge stien hele veien ned til Täsch. 14 km sammenhengende singletrack av det aller ypperste slaget du kan tenke deg. Vi gikk rett og slett tom for superlativer til slutt. Vi måtte kanskje gå 5 minutter tilsammen på en halvannen times tur. Jeg er usikker på om det er mulig å få til en bedre sti, i hvert fall av den lengden. Etterhvert kom vi ned i skogen og fikk en del switchbacks ned mot byen, men alt var kjørbart. I hvert fall så lenge bremsene holdt. Varme bremser ble et problem også her :-)
+En runde opp med heisen og ned igjen på en nydelig teknisk sti før avslutningen av dagen skulle starte. Gondolen opp til Rothorn og så til venstre og nedover mot dalen, og følge stien hele veien ned til Täsch. 14 km sammenhengende singletrack av det aller ypperste slaget du kan tenke deg. Vi gikk rett og slett tom for superlativer til slutt. Vi måtte kanskje gå 5 minutter tilsammen på en halvannen times tur. Jeg er usikker på om det er mulig å få til en bedre sti, i hvert fall av den lengden. Etterhvert kom vi ned i skogen og fikk en del switchbacks ned mot byen, men alt var kjørbart. I hvert fall så lenge bremsene holdt. Varme bremser ble et problem også her :-)
 
 <a href="/assets/sveits7_b.jpg" data-lightbox="dogstar-1" data-title="Utsikten fra Rothorn">
   <img src="/assets/sveits7_s.jpg" title="Utsikten fra Rothorn" />
@@ -68,5 +72,19 @@ Strava-aktivitet: [https://www.strava.com/activities/689936850](https://www.stra
 
 
 ## Dag 3: Crans-Montana
+
+<a href="/assets/sveits7b_b.jpg" data-lightbox="dogstar-1" data-title="Bratt">
+  <img src="/assets/sveits7b_s.jpg" title="Bratt">
+</a>
+
+<a href="/assets/sveits9_b.jpg" data-lightbox="dogstar-1" data-title="Bratt her også">
+  <img src="/assets/sveits9_s.jpg" title="Bratt her også">
+</a>
+
+<a href="/assets/sveits10_b.jpg" data-lightbox="dogstar-1" data-title="Litt snøflekker over 3000 meter">
+  <img src="/assets/sveits10_s.jpg" title="Litt snøflekker fortsatt over 3000 meter">
+</a>
+
+
 
 Strava-aktivitet: [https://www.strava.com/activities/691218918](https://www.strava.com/activities/691218918)
