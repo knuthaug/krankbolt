@@ -62,6 +62,10 @@ En runde opp med heisen og ned igjen på en nydelig teknisk sti før avslutninge
   <img src="/assets/sveits7_s.jpg" title="Utsikten fra Rothorn" />
 </a>
 
+<a href="/assets/sveits11_b.jpg" data-lightbox="dogstar-1" data-title="Starten på dagens siste sti, over Rothorn">
+  <img src="/assets/sveits11_s.jpg" title="Starten på dagens siste sti, over Rothorn">
+</a>
+ 
 <a href="/assets/sveits8_b.jpg" data-lightbox="dogstar-1" data-title="På stien mot Täsch, byen ses i det fjerne nede i dalen. ">
   <img src="/assets/sveits8_s.jpg" title="På stien mot Täsch, byen ses i det fjerne nede i dalen" />
 </a>
@@ -73,6 +77,10 @@ Strava-aktivitet: [https://www.strava.com/activities/689936850](https://www.stra
 
 ## Dag 3: Crans-Montana
 
+Dagen startet med funikular opp fra Sierre til Montana, og en kjapp sykkeltur til første Heisen. Her var det solid med syklister og det ble faktisk bittelitt kø, for første gang på turen. Vi burde kanskje tatt hintet fra sveitserne vi møtte på gondolen til toppen, som skulle ta turen vi hadde planlagt etter lunsj, på morgene. Det er fire timer, sa de. Jaja, det går bra, sa vi. 
+
+Så vi syklet en annen rute fra Plain Morte (ren død) og nedover mot sykkelparken. Litt villmark, litt klatring med akk så fin singletrack også. Nedover hele veien til sykkelparken og en runde i den før heisen oppover igjen. 
+
 <a href="/assets/sveits7b_b.jpg" data-lightbox="dogstar-1" data-title="Bratt">
   <img src="/assets/sveits7b_s.jpg" title="Bratt">
 </a>
@@ -81,10 +89,31 @@ Strava-aktivitet: [https://www.strava.com/activities/689936850](https://www.stra
   <img src="/assets/sveits9_s.jpg" title="Bratt her også">
 </a>
 
+<a href="/assets/sveits12_b.jpg" data-lightbox="dogstar-1" data-title="Utsikten fra restauranten på Les Violettes">
+  <img src="/assets/sveits12_s.jpg" title="Utsikten fra restauranten på Les Violettes">
+</a>
+
+Lunsj på mellomstasjonen og gondolen tilbake til Plain Morte for avslutningen som er en sinnsyk lang tur (sveitserne mente fire timer), men vi hadde en plan om å skjære tilbake mot utgangspunktet litt på veien. Originalen er egentlig hele veien ned til dalen, 18 km unna Sierre og vi ville helst tilbake dit per sykkel. Ut fra Plain Morte ble det fort klart at det var strabasiøse saker, ren villmarksekspedisjon. Snøpartier, klatring med sykkel på skuldrene og ca 1 time med bortover og oppver i øde steinlandskap. 
+
+<a href="/assets/sveits13_b.jpg" data-lightbox="dogstar-1" data-title="Utsikten fra gondolen mot Plain Morte">
+  <img src="/assets/sveits13_s.jpg" title="Utsikten fra gondolen mot Plain Morte">
+</a>
+
+<a href="/assets/sveits14_b.jpg" data-lightbox="dogstar-1" data-title="Starten på Plain Morte. Helt grei utsikt her også. ">
+  <img src="/assets/sveits14_s.jpg" title="Starten på Plain Morte. Helt grei utsikt her også. ">
+</a>
+
 <a href="/assets/sveits10_b.jpg" data-lightbox="dogstar-1" data-title="Litt snøflekker over 3000 meter">
   <img src="/assets/sveits10_s.jpg" title="Litt snøflekker fortsatt over 3000 meter">
 </a>
 
+Etter hvert ble det nedover (bratt som faen) men når vi kom ned i dalen ble det smuud sti for alle pengene, kilometer etter kilometer. Litt bratt igjen nedover mot innsjøen Lac de Tseuzier. Hit brukte vi vel 2.5-3 timer og klokken nærmet seg 16 (vi startet dagen 09:00), og enda verre, hode og kropp begynte å bli alvorlig slitne. Så vi bestemte oss for å hoppe av ruta, som skulle ha et par kilometer med alvorlig eksponert sti ved innsjøen også. Vi fulgte grusveier mot Crans-Montana, litt klatringer og diverse, men all good. Tenkte vi. 
+
+Skiltene mot Crans-Montana tok så inn på en sti, som så superfet ut. Men etter en kilometer kom vi ut i den bratte dalen mot innsjøen, og stien ble så sinnsykt eksponert at vi gikk mer enn vi syklet. 300m vertikal dropp rett ned, sti hugget ut i fjellet og av og til så smalt at vi nesten ikke fikk sykler forbi. Slitne hoder ble om mulig enda mer slitne. 
+
+<a href="/assets/sveits15_b.jpg" data-lightbox="dogstar-1" data-title="Utslitt, og så får man denne eksponeringen. Hard core.">
+  <img src="/assets/sveits15_s.jpg" title="Utslitt, og så får man denne eksponeringen. Hard core.">
+</a>
 
 
 Strava-aktivitet: [https://www.strava.com/activities/691218918](https://www.strava.com/activities/691218918)
