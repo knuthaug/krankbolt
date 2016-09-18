@@ -3,7 +3,7 @@ layout: post
 title: "Et sveitsisk eventyr"
 date: 2016-08-25
 published: true
-tags: tur sveits alpene
+tags: tur sveits alpene sti
 categories: Tur 
 ---
 
@@ -15,7 +15,7 @@ Først, litt pakking:
   <img src="/assets/sveits1_s.jpg" title="Pakker i lånt koffert, go'sykkelen får være med">
 </a>
 
-Vi ankom Geneve og fiksa en leiebil som tok oss til den bittelille byen St. Luc oppe i en fjellsiden ikke så langt fra Crans-Montana (mer om den byen senere). Bostedet var nøye planlagt utifra en artikkel om topp ti sykkelsteder i alpene. Kvelden ble brukt til å skru sammen sykler og studere guideboken nøye, og en kjapp rekognoseringstur for å finne funikularen opp til fjellet ble gjennomført. 
+Vi ankom Geneve og fiksa en leiebil som tok oss til den bittelille byen St. Luc oppe i en fjellsiden ikke så langt fra Crans-Montana (mer om de byene senere). Bostedet var nøye planlagt utifra [en artikkel](https://www.theguardian.com/travel/2015/jun/18/top-10-mountain-bike-rides-alps-france-italy-switzerland) om topp ti sykkelsteder i alpene. Kvelden ble brukt til å skru sammen sykler og studere guideboken nøye, og en kjapp rekognoseringstur for å finne funikularen opp til fjellet ble gjennomført. 
 
 ## Dag 1: St. Luc
 
@@ -33,11 +33,13 @@ Første dagen ble brukt i fjellene over St. Luc. Vi tok første funikular opp 8 
   <img src="/assets/sveits3_s.jpg" title="Gressenger og fjelltopper">
 </a>
 
-Under lunsjen (safran-risotte med Weissbier til) ble det litt diskusjon om hvilken sti vi skulle ta fra Hotel Weisshorn på slutten av dagen, men vi endte til slutt opp med gullfunnet, selv om vi tok en liten omvei som hadde litt knot i seg. Og for en sti! Ca. 6-7 kilometer med singeltrack som først snodde seg langs en fjellside før den skar ned i dalen og fortsatt nede i skogen, hele veien på tvers av høydekurvene og en perfekt vinkel nedover. Det måtte flere stopp til for å kjøle ned overopphetede bremser. 
+Under lunsjen (safran-risotte med Weissbier til) ble det litt diskusjon om hvilken sti vi skulle ta fra Hotel Weisshorn på slutten av dagen, men vi endte til slutt opp med gullfunnet, selv om vi tok en liten omvei som hadde litt knot i seg. Og for en sti! Ca. 14 kilometer med singeltrack som først snodde seg langs en fjellside før den skar ned i dalen og fortsatt nede i skogen, hele veien på tvers av høydekurvene og en perfekt vinkel nedover. Det måtte flere stopp til for å kjøle ned overopphetede bremser. 
 
 <a href="/assets/sveits4_b.jpg" data-lightbox="dogstar-1" data-title="Singletrack mania">
   <img src="/assets/sveits4_s.jpg" title="Singletrack mania" />
 </a>
+
+<iframe width="700" height="480" src="https://www.youtube.com/embed/DSPqW8qjQj8" frameborder="0" allowfullscreen></iframe>
 
 Strava-aktivitet: [https://www.strava.com/activities/688565055](https://www.strava.com/activities/688565055)
 
@@ -72,12 +74,14 @@ En runde opp med heisen og ned igjen på en nydelig teknisk sti før avslutninge
 
 Vel nede i byen var vi så tomme for energi at middagen ble inntatt sporenstreks i Täsch før hjemturen. Kunne det bli noe særlig bedre egentlig?
 
+<iframe width="700" height="480" src="https://www.youtube.com/embed/UyE8s0ZFU78" frameborder="0" allowfullscreen></iframe>
+
 Strava-aktivitet: [https://www.strava.com/activities/689936850](https://www.strava.com/activities/689936850)
 
 
 ## Dag 3: Crans-Montana
 
-Dagen startet med funikular opp fra Sierre til Montana, og en kjapp sykkeltur til første Heisen. Her var det solid med syklister og det ble faktisk bittelitt kø, for første gang på turen. Vi burde kanskje tatt hintet fra sveitserne vi møtte på gondolen til toppen, som skulle ta turen vi hadde planlagt etter lunsj, på morgene. Det er fire timer, sa de. Jaja, det går bra, sa vi. 
+Dagen startet med funikular opp fra Sierre til Montana, rett over dalen fra der vi bodde, og så en kjapp sykkeltur til første heisen. Her var det solid med syklister og det ble faktisk bittelitt kø, for første gang på turen. Vi burde kanskje tatt hintet fra sveitserne vi møtte på gondolen til toppen, som skulle ta turen vi hadde planlagt etter lunsj, på morgenen. Det er fire timer, sa de. Jaja, det går bra, sa vi. 
 
 Så vi syklet en annen rute fra Plain Morte (ren død) og nedover mot sykkelparken. Litt villmark, litt klatring med akk så fin singletrack også. Nedover hele veien til sykkelparken og en runde i den før heisen oppover igjen. 
 
@@ -93,7 +97,7 @@ Så vi syklet en annen rute fra Plain Morte (ren død) og nedover mot sykkelpark
   <img src="/assets/sveits12_s.jpg" title="Utsikten fra restauranten på Les Violettes">
 </a>
 
-Lunsj på mellomstasjonen og gondolen tilbake til Plain Morte for avslutningen som er en sinnsyk lang tur (sveitserne mente fire timer), men vi hadde en plan om å skjære tilbake mot utgangspunktet litt på veien. Originalen er egentlig hele veien ned til dalen, 18 km unna Sierre og vi ville helst tilbake dit per sykkel. Ut fra Plain Morte ble det fort klart at det var strabasiøse saker, ren villmarksekspedisjon. Snøpartier, klatring med sykkel på skuldrene og ca 1 time med bortover og oppver i øde steinlandskap. 
+Lunsj på mellomstasjonen Les Violettes og gondolen tilbake til Plain Morte for avslutningen som er en sinnsyk lang tur, men vi hadde en plan om å skjære tilbake mot utgangspunktet vårt litt på veien. Originalen er egentlig hele veien ned til dalen, 18 km unna Sierre og vi ville helst tilbake dit per sykkel. Ut fra Plain Morte ble det fort klart at dette var strabasiøse saker, ren villmarksekspedisjon. Snøpartier, klatring med sykkel på skuldrene og ca 1 time med bortover og oppver i øde steinlandskap. 
 
 <a href="/assets/sveits13_b.jpg" data-lightbox="dogstar-1" data-title="Utsikten fra gondolen mot Plain Morte">
   <img src="/assets/sveits13_s.jpg" title="Utsikten fra gondolen mot Plain Morte">
@@ -115,5 +119,10 @@ Skiltene mot Crans-Montana tok så inn på en sti, som så superfet ut. Men ette
   <img src="/assets/sveits15_s.jpg" title="Utslitt, og så får man denne eksponeringen. Hard core.">
 </a>
 
+Men etter å ha passert den drøye delen fikk vi nok en gang superduper singletrack og kunne følge (ekstremt god) skilting ned mot Crans og gjennom sentrum til funikularen ned til Sierre igjen. 10 timer oppe på fjellet, og hvilke timer!
+
+Det er nesten så jeg ikke tror hvor bra det var, her jeg sitter og skriver dette. En videosnutt fra Crans-Montana under. 
+
+<iframe width="700" height="480" src="https://www.youtube.com/embed/XdCn4q46KD4" frameborder="0" allowfullscreen></iframe>
 
 Strava-aktivitet: [https://www.strava.com/activities/691218918](https://www.strava.com/activities/691218918)
