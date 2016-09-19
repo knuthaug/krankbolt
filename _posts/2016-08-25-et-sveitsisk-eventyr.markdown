@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: widepost        
 title: "Et sveitsisk eventyr"
 date: 2016-08-25
 published: true
@@ -11,9 +11,7 @@ Kortet jeg fikk til 40-årsdagen sa bare «ta med deg pass og sykkel og still op
 
 Først, litt pakking:
 
-<a href="/assets/sveits1_b.jpg" data-lightbox="dogstar-1" data-title="Pakker i lånt koffert, go'sykkelen får være med">
-  <img src="/assets/sveits1_s.jpg" title="Pakker i lånt koffert, go'sykkelen får være med">
-</a>
+<p class="img"><img class="wide" src="/assets/sveits1_b.jpg" alt="Pakker i lånt koffert, go'sykkelen får være med" width="1800" height="1350" srcset="/assets/sveits1_b.jpg 1800w, /assets/sveits1_s.jpg 900w"></p>
 
 Vi ankom Geneve og fiksa en leiebil som tok oss til den bittelille byen St. Luc oppe i en fjellsiden ikke så langt fra Crans-Montana (mer om de byene senere). Bostedet var nøye planlagt utifra [en artikkel](https://www.theguardian.com/travel/2015/jun/18/top-10-mountain-bike-rides-alps-france-italy-switzerland) om topp ti sykkelsteder i alpene. Kvelden ble brukt til å skru sammen sykler og studere guideboken nøye, og en kjapp rekognoseringstur for å finne funikularen opp til fjellet ble gjennomført. 
 
@@ -21,17 +19,11 @@ Vi ankom Geneve og fiksa en leiebil som tok oss til den bittelille byen St. Luc 
 
 Første dagen ble brukt i fjellene over St. Luc. Vi tok første funikular opp 8 om morgenen og tråkket i vei. Et par litt tvilsomme veivalg ga oss lit knot i starten men for noen nedkjøringer det ga etterpå! Og alt foregikk over 2500 moh. Utsikten var det ikke mye å si på. Kuer med enorme bjeller rundt halsen rett som det var, og bratte singeltracks. Vi holdt oss i fjellene rundt Hotell Weisshorn selv om det skulle være bra stier på den andre siden også. 
 
-<a href="/assets/sveits2b_b.jpg" data-lightbox="dogstar-1" data-title="Gressenger og fjelltopper">
-  <img src="/assets/sveits2b_s.jpg" title="Gressenger og fjelltopper">
-</a>
+<p class="img"><img class="wide" src="/assets/sveits2b_b.jpg" alt="" width="1800" height="1350" srcset="/assets/sveits2b_b.jpg 1800w, /assets/sveits2b_s.jpg 900w"></p>
 
-<a href="/assets/sveits2_b.jpg" data-lightbox="dogstar-1" data-title="Sveitserne setter opp store trekors overalt. ">
-  <img src="/assets/sveits2_s.jpg" title="Sveitserne setter opp store trekors overalt.">
-</a>
+<p class="img"><img class="wide" src="/assets/sveits2_b.jpg" alt="Sveitserne setter opp store trekors overalt." width="1800" height="1350" srcset="/assets/sveits2_b.jpg 1800w, /assets/sveits2_s.jpg 900w"></p>
 
-<a href="/assets/sveits3_b.jpg" data-lightbox="dogstar-1" data-title="Gressenger og fjelltopper">
-  <img src="/assets/sveits3_s.jpg" title="Gressenger og fjelltopper">
-</a>
+<p class="img"><img class="wide" src="/assets/sveits3_b.jpg" alt="Sveitserne setter opp store trekors overalt." width="1800" height="1350" srcset="/assets/sveits3_b.jpg 1800w, /assets/sveits2_s.jpg 900w"></p>
 
 Under lunsjen (safran-risotte med Weissbier til) ble det litt diskusjon om hvilken sti vi skulle ta fra Hotel Weisshorn på slutten av dagen, men vi endte til slutt opp med gullfunnet, selv om vi tok en liten omvei som hadde litt knot i seg. Og for en sti! Ca. 14 kilometer med singeltrack som først snodde seg langs en fjellside før den skar ned i dalen og fortsatt nede i skogen, hele veien på tvers av høydekurvene og en perfekt vinkel nedover. Det måtte flere stopp til for å kjøle ned overopphetede bremser. 
 
@@ -39,7 +31,7 @@ Under lunsjen (safran-risotte med Weissbier til) ble det litt diskusjon om hvilk
   <img src="/assets/sveits4_s.jpg" title="Singletrack mania" />
 </a>
 
-<iframe width="700" height="480" src="https://www.youtube.com/embed/DSPqW8qjQj8" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/DSPqW8qjQj8" frameborder="0" allowfullscreen></iframe>
 
 Strava-aktivitet: [https://www.strava.com/activities/688565055](https://www.strava.com/activities/688565055)
 

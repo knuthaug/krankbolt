@@ -207,6 +207,10 @@ pre code.hljs {
 		@include outer-container;
 		padding: 1em;
 	}
+	.wide-wrapper {
+		@include outer-container(100%);
+		padding: 1em 0;
+	}
 	/*
 	*	index.html
 	*/
@@ -259,6 +263,31 @@ pre code.hljs {
 		display: block;
 		margin: auto;
 		width: 90%;
+	}
+
+    p.img {
+      width: 100%;
+      padding: 10px 0;
+    }
+
+    p {
+      width: 75%;
+      margin: auto;
+      padding-bottom: 8px;
+    }
+
+    iframe {
+      margin-left: 13%;
+      width: 75%;
+      height: auto;
+      min-height: 500px;
+    }
+
+	img.wide {
+		display: block;
+		margin: auto;
+		width: 100%;
+        height: auto;
 	}
 	/*
 	*	Posts
