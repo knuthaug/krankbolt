@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: widepost
 title: "Gjelleråsen-duro"
 date: 2016-04-12
 image: /assets/gjeller2.jpg
