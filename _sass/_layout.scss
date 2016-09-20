@@ -236,6 +236,10 @@ pre code.hljs {
 	.post-list {
 		padding-top: 1em !important;
 		@extend %default-ul;
+        
+        h2,h3 {
+          margin-left: 0;
+        }
 	}
 	.post-meta {
 		@include outer-container;
@@ -434,7 +438,7 @@ pre code.hljs {
 		@include outer-container;
 	}
 	.footer-heading {
-
+        margin-left: 0;
 	}
 	/*
 	*	Site Navigation (left)
