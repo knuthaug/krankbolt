@@ -23,7 +23,9 @@ Første dagen ble brukt i fjellene over St. Luc. Vi tok første funikular opp 8 
 
 <p class="img"><img class="wide" src="/assets/sveits2_b.jpg" alt="Sveitserne setter opp store trekors overalt." width="1800" height="1350" srcset="/assets/sveits2_b.jpg 1800w, /assets/sveits2_s.jpg 900w"></p>
 
-<p class="img"><img class="wide" src="/assets/sveits3_b.jpg" alt="Sveitserne setter opp store trekors overalt." width="1800" height="1350" srcset="/assets/sveits3_b.jpg 1800w, /assets/sveits2_s.jpg 900w"></p>
+<a href="/assets/sveits3_b.jpg" data-lightbox="dogstar-1" data-title="Singletrack mania">
+  <img src="/assets/sveits3_s.jpg" title="Singletrack mania" />
+</a>
 
 Under lunsjen (safran-risotte med Weissbier til) ble det litt diskusjon om hvilken sti vi skulle ta fra Hotel Weisshorn på slutten av dagen, men vi endte til slutt opp med gullfunnet, selv om vi tok en liten omvei som hadde litt knot i seg. Og for en sti! Ca. 14 kilometer med singeltrack som først snodde seg langs en fjellside før den skar ned i dalen og fortsatt nede i skogen, hele veien på tvers av høydekurvene og en perfekt vinkel nedover. Det måtte flere stopp til for å kjøle ned overopphetede bremser. 
 
@@ -46,9 +48,7 @@ Neste dag diskuterte vi oss fram til Zermatt og planla en solid tur utfra guide-
 
 Her ble det en del gåing pga. bratte, steinete switchbacks, men mye flyt til tider. Og vi kom oss over til Sunnegga for lunsj. Her fra en av stiene oppover mot Sunnegga. Helt grei utsikt her også.
 
-<a href="/assets/sveits6_b.jpg" data-lightbox="dogstar-1" data-title="På vei mot Sunnegga">
-  <img src="/assets/sveits6_s.jpg" title="På vei mot Sunnegga" />
-</a>
+<p class="img"><img class="wide" src="/assets/sveits6_b.jpg" alt="På vei mot Sunnegga" width="1800" height="1062" srcset="/assets/sveits6_b.jpg 1800w, /assets/sveits6_s.jpg 1000w"></p>
 
 En runde opp med heisen og ned igjen på en nydelig teknisk sti før avslutningen av dagen skulle starte. Gondolen opp til Rothorn og så til venstre og nedover mot dalen, og følge stien hele veien ned til Täsch. 14 km sammenhengende singletrack av det aller ypperste slaget du kan tenke deg. Vi gikk rett og slett tom for superlativer til slutt. Vi måtte kanskje gå 5 minutter tilsammen på en halvannen times tur. Jeg er usikker på om det er mulig å få til en bedre sti, i hvert fall av den lengden. Etterhvert kom vi ned i skogen og fikk en del switchbacks ned mot byen, men alt var kjørbart. I hvert fall så lenge bremsene holdt. Varme bremser ble et problem også her :-)
 
