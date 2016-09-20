@@ -271,9 +271,10 @@ pre code.hljs {
     }
 
     p {
-      width: 75%;
+      width: 65%;
       margin: auto;
       padding-bottom: 8px;
+      min-width: 500px;
     }
 
     iframe {
@@ -316,12 +317,12 @@ pre code.hljs {
 		}
 		.tags {
 			font-size: 0.9em;
-            width: 75%;
+            width: 65%;
             margin: auto;
 		}
-		secton.rss {
+		section.rss {
 			margin: 1em auto 0 auto;
-            width: 75%;
+            width: 100%;
 		}
 		.share {
 			font-weight: bold;

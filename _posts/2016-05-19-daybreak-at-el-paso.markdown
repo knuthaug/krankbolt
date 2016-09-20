@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: widepost
 title: "Daybreak at El Paso"
 date: 2016-05-19
 published: true
