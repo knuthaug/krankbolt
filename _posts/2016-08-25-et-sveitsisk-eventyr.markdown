@@ -107,6 +107,6 @@ Men etter å ha passert den drøye delen fikk vi nok en gang superduper singletr
 
 Det er nesten så jeg ikke tror hvor bra det var, her jeg sitter og skriver dette. En videosnutt fra Crans-Montana under. 
 
-<iframe width="700" height="480" src="https://www.youtube.com/embed/XdCn4q46KD4" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="580" src="https://www.youtube.com/embed/XdCn4q46KD4" frameborder="0" allowfullscreen></iframe>
 
 Strava-aktivitet: [https://www.strava.com/activities/691218918](https://www.strava.com/activities/691218918)
