@@ -93,17 +93,15 @@ Lunsj på mellomstasjonen Les Violettes og gondolen tilbake til Plain Morte for 
   <img src="/assets/sveits14_s.jpg" title="Starten på Plain Morte. Helt grei utsikt her også. ">
 </a>
 
-<a href="/assets/sveits10_b.jpg" data-lightbox="dogstar-1" data-title="Litt snøflekker over 3000 meter">
-  <img src="/assets/sveits10_s.jpg" title="Litt snøflekker fortsatt over 3000 meter">
-</a>
+
+<p class="img"><img class="wide" src="/assets/sveits10_b.jpg" alt="Litt snøflekker over 3000 meter" width="1900" height="850" srcset="/assets/sveits10_b.jpg 1900w, /assets/sveits10_s.jpg 1000w"></p>
+
 
 Etter hvert ble det nedover (bratt som faen) men når vi kom ned i dalen ble det smuud sti for alle pengene, kilometer etter kilometer. Litt bratt igjen nedover mot innsjøen Lac de Tseuzier. Hit brukte vi vel 2.5-3 timer og klokken nærmet seg 16 (vi startet dagen 09:00), og enda verre, hode og kropp begynte å bli alvorlig slitne. Så vi bestemte oss for å hoppe av ruta, som skulle ha et par kilometer med alvorlig eksponert sti ved innsjøen også. Vi fulgte grusveier mot Crans-Montana, litt klatringer og diverse, men all good. Tenkte vi. 
 
 Skiltene mot Crans-Montana tok så inn på en sti, som så superfet ut. Men etter en kilometer kom vi ut i den bratte dalen mot innsjøen, og stien ble så sinnsykt eksponert at vi gikk mer enn vi syklet. 300m vertikal dropp rett ned, sti hugget ut i fjellet og av og til så smalt at vi nesten ikke fikk sykler forbi. Slitne hoder ble om mulig enda mer slitne. 
 
-<a href="/assets/sveits15_b.jpg" data-lightbox="dogstar-1" data-title="Utslitt, og så får man denne eksponeringen. Hard core.">
-  <img src="/assets/sveits15_s.jpg" title="Utslitt, og så får man denne eksponeringen. Hard core.">
-</a>
+<p class="img"><img class="wide" src="/assets/sveits15_b.jpg" alt="Utslitt, og så får man denne eksponeringen. Hard core." width="1900" height="850" srcset="/assets/sveits15_b.jpg 1900w, /assets/sveits15_s.jpg 1000w"></p>
 
 Men etter å ha passert den drøye delen fikk vi nok en gang superduper singletrack og kunne følge (ekstremt god) skilting ned mot Crans og gjennom sentrum til funikularen ned til Sierre igjen. 10 timer oppe på fjellet, og hvilke timer!
 
