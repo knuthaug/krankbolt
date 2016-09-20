@@ -202,14 +202,33 @@ pre code.hljs {
 /*
 *	Body
 */
+
+
 .page-content {
 	.wrapper {
 		@include outer-container;
 		padding: 1em;
+
+        p {
+          width: 100%;
+          margin: auto;
+          padding-bottom: 8px;
+          min-width: 500px;
+        }
+
+
 	}
 	.wide-wrapper {
 		@include outer-container(100%);
 		padding: 1em 0;
+
+        p {
+          width: 65%;
+          margin: auto;
+          padding-bottom: 8px;
+          min-width: 500px;
+        }
+        
 	}
 	/*
 	*	index.html
@@ -270,13 +289,6 @@ pre code.hljs {
       padding: 10px 0;
     }
 
-    p {
-      width: 65%;
-      margin: auto;
-      padding-bottom: 8px;
-      min-width: 500px;
-    }
-
     iframe {
       margin-left: 13%;
       width: 73%;
@@ -288,6 +300,13 @@ pre code.hljs {
       margin-left: 0%;
       width: 100%;
       height: auto;
+    }
+
+    iframe.instagram-media {
+      margin-left: 0%;
+      width: 100%;
+      height: auto;
+      min-height: 739px;
     }
 
 
