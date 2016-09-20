@@ -4,7 +4,7 @@ title: "Traktor i godt sig"
 date: 2016-07-11
 published: true
 tags: ritt enduro traktorbikepark
-categories: ritt
+categories: Ritt
 ---
 
 Så var det Traktor Enduro 2016 som sto på plakaten og jeg var eneste fra Lørenskog som dro til de dype skogene ved Randsfjorden for å representere. Traktor gikk ikke så ille i fjor, men uten tid til å trene i løypa følte jeg vel at det var litt mer å hente. Skulle likevel vise seg at feltet var sterkere i år enn i fjor. 

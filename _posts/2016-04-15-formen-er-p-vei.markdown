@@ -4,7 +4,7 @@ title: "Formen er på vei"
 date: 2016-04-15
 published: true
 tags: trening intervall
-categories: trening
+categories: Trening
 ---
 
 Våren er her og piggdekkene er endelig av. Jeg har fått trent bedre i vinter enn noen gang tidligere og jeg har vært spent på hvordan formen kan sammenlignes med i fjor. På de fleste rutene til jobben er det flere segmenter hvor jeg har tatt i opp mot maks, og evt. forbedringer vil være et godt tegn på økt form. 

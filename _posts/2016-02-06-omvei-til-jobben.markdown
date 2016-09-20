@@ -4,7 +4,7 @@ title: "Omvei til jobben"
 date: 2016-02-06
 published: true
 tags: pendling østmarka trening
-categories: trening
+categories: Trening
 ---
 
 Mens jeg skriver dette er det is på alle stiene og det er 4 grader og regn. Jeg klarer ikke å la vær å tenke på dager da livet var enklere, og man ikke trengte tre lag tøy for å komme seg ut på sykkelen. 

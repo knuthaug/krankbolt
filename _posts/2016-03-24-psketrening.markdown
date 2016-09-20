@@ -4,7 +4,7 @@ title: "Påsketrening"
 date: 2016-03-24
 published: true
 tags: trening vestlandet påske fjord
-categories: trening
+categories: Trening
 ---
 
 

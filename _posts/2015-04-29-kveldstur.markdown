@@ -4,7 +4,7 @@ title: "Kveldstur"
 date: 2015-04-29
 published: true
 tags: trening mtb lapierre
-categories: trening
+categories: Trening
 ---
 
 <img src="/assets/gjeller.jpg" alt="Solnedgang. Igjen." />

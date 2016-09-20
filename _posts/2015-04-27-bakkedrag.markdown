@@ -4,7 +4,7 @@ title: "Bakkedrag i solnedgang"
 date: 2015-04-27
 published: true
 tags: trening
-categories: trening
+categories: Trening
 ---
 
 <img src="/assets/sol.jpg" alt="Solnedgang over fjorden" />

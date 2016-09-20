@@ -4,7 +4,7 @@ title: "Hvordan står det til med bunny-teknikken?"
 date: 2015-10-04
 published: true
 tags: trening teknikk
-categories: trening
+categories: Trening
 ---
 
 Med litt tid til overs og halvslapp kropp, tenkte jeg å teste hvordan det sto til med bunny-hop teknikken. Jeg føler vel at jeg ofte kløner det litt til på stien, men jeg vet ikke egentlig hvor god teknikk jeg har, eller hvor høye hopp jeg klarer. 

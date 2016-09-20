@@ -216,6 +216,12 @@ pre code.hljs {
           min-width: 500px;
         }
 
+		.tags {
+			font-size: 0.9em;
+            width: 100%;
+            margin: auto;
+		}
+
 
 	}
 	.wide-wrapper {
@@ -229,6 +235,12 @@ pre code.hljs {
           min-width: 500px;
         }
         
+		.tags {
+			font-size: 0.9em;
+            width: 65%;
+            margin: auto;
+		}
+
 	}
 	/*
 	*	index.html
@@ -337,11 +349,6 @@ pre code.hljs {
 		}
 		.post-content {
 			padding: 1em 0;
-		}
-		.tags {
-			font-size: 0.9em;
-            width: 65%;
-            margin: auto;
 		}
 		section.rss {
 			margin: 1em auto 0 auto;

@@ -4,7 +4,7 @@ title: "På innsiden: ventilhetter"
 date: 2014-08-03
 published: true
 tags: stash stil tips
-categories: stash 
+categories: Stash 
 ---
 
 eg tar ofte meg selv i kjapt og overfladisk bedømme om en syklist er “innafor” eller “utafor”. Selv om det er en ganske elitisk handling, bunner det i en kjerne av at de bommer på nok ting til at jeg skjønner at de enten ikke har sykla lenge, eller bare ikke legger så mye i syklingen sin. Men det gjør jeg :-) Og jeg snakker ikke (bare) om slavisk følging av reglene. Men mange av disse reglene bunner i lure ting. 

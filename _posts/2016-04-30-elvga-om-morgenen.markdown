@@ -4,7 +4,7 @@ title: "Elvåga om morgenen"
 date: 2016-04-30
 published: true
 tags: commmute trening
-categories: trening
+categories: Trening
 ---
 <img src="/assets/elvaga.jpg" />
 

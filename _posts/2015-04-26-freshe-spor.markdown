@@ -4,7 +4,7 @@ title: "Freshe spor"
 date: 2015-04-26
 published: true
 tags: trening tur
-categories: trening
+categories: Trening
 ---
 
 <img src="/assets/paaske.jpg" alt="First track" />

@@ -5,7 +5,7 @@ date: 2016-05-19
 published: true
 image: /assets/elpaso.jpg
 tags: tur commute
-categories: trening
+categories: Trening
 ---
 
 <img src="/assets/elpaso.jpg" />
