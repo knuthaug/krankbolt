@@ -52,9 +52,7 @@ Her ble det en del gåing pga. bratte, steinete switchbacks, men mye flyt til ti
 
 En runde opp med heisen og ned igjen på en nydelig teknisk sti før avslutningen av dagen skulle starte. Gondolen opp til Rothorn og så til venstre og nedover mot dalen, og følge stien hele veien ned til Täsch. 14 km sammenhengende singletrack av det aller ypperste slaget du kan tenke deg. Vi gikk rett og slett tom for superlativer til slutt. Vi måtte kanskje gå 5 minutter tilsammen på en halvannen times tur. Jeg er usikker på om det er mulig å få til en bedre sti, i hvert fall av den lengden. Etterhvert kom vi ned i skogen og fikk en del switchbacks ned mot byen, men alt var kjørbart. I hvert fall så lenge bremsene holdt. Varme bremser ble et problem også her :-)
 
-<a href="/assets/sveits7_b.jpg" data-lightbox="dogstar-1" data-title="Utsikten fra Rothorn">
-  <img src="/assets/sveits7_s.jpg" title="Utsikten fra Rothorn" />
-</a>
+<p class="img"><img class="wide" src="/assets/sveits7_b.jpg" alt="Utsikten fra Rothorn" width="1900" height="1029" srcset="/assets/sveits7_b.jpg 1900w, /assets/sveits7_s.jpg 1000w"></p>
 
 <a href="/assets/sveits11_b.jpg" data-lightbox="dogstar-1" data-title="Starten på dagens siste sti, over Rothorn">
   <img src="/assets/sveits11_s.jpg" title="Starten på dagens siste sti, over Rothorn">
@@ -81,13 +79,9 @@ Så vi syklet en annen rute fra Plain Morte (ren død) og nedover mot sykkelpark
   <img src="/assets/sveits7b_s.jpg" title="Bratt">
 </a>
 
-<a href="/assets/sveits9_b.jpg" data-lightbox="dogstar-1" data-title="Bratt her også">
-  <img src="/assets/sveits9_s.jpg" title="Bratt her også">
-</a>
+<p class="img"><img class="wide" src="/assets/sveits9_b.jpg" alt="Bratt her også" width="1900" height="930" srcset="/assets/sveits9_b.jpg 1800w, /assets/sveits9_s.jpg 1000w"></p>
 
-<a href="/assets/sveits12_b.jpg" data-lightbox="dogstar-1" data-title="Utsikten fra restauranten på Les Violettes">
-  <img src="/assets/sveits12_s.jpg" title="Utsikten fra restauranten på Les Violettes">
-</a>
+<p class="img"><img class="wide" src="/assets/sveits12_b.jpg" alt="Utsikten fra Les Violettes" width="1900" height="930" srcset="/assets/sveits12_b.jpg 1900w, /assets/sveits12_s.jpg 1000w"></p>
 
 Lunsj på mellomstasjonen Les Violettes og gondolen tilbake til Plain Morte for avslutningen som er en sinnsyk lang tur, men vi hadde en plan om å skjære tilbake mot utgangspunktet vårt litt på veien. Originalen er egentlig hele veien ned til dalen, 18 km unna Sierre og vi ville helst tilbake dit per sykkel. Ut fra Plain Morte ble det fort klart at dette var strabasiøse saker, ren villmarksekspedisjon. Snøpartier, klatring med sykkel på skuldrene og ca 1 time med bortover og oppver i øde steinlandskap. 
 

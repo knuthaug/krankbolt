@@ -277,11 +277,18 @@ pre code.hljs {
     }
 
     iframe {
-      margin-left: 13%;
-      width: 75%;
+      margin-left: 12%;
+      width: 73%;
       height: auto;
       min-height: 500px;
     }
+
+    iframe#dsq-app1 {
+      margin-left: 0%;
+      width: 100%;
+      height: auto;
+    }
+
 
 	img.wide {
 		display: block;
@@ -309,14 +316,12 @@ pre code.hljs {
 		}
 		.tags {
 			font-size: 0.9em;
+            width: 75%;
+            margin: auto;
 		}
-		.rss {
-			margin: 1em 0 0 0;
-			@include span-columns(12);
-			@include media ($tablet) {
-				margin: 1em 0;
-				@include span-columns(6);
-			}
+		secton.rss {
+			margin: 1em auto 0 auto;
+            width: 75%;
 		}
 		.share {
 			font-weight: bold;
@@ -334,7 +339,8 @@ pre code.hljs {
 			}
 		}
 		.disqus {
-			@include span-columns(12);
+          width: 75%;
+          margin: auto;
 		}
 		.post-navigation {
 			font-size: 0.9em;
