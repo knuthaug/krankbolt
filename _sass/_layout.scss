@@ -213,7 +213,6 @@ pre code.hljs {
           width: 100%;
           margin: auto;
           padding-bottom: 8px;
-          min-width: 500px;
         }
 
 		.tags {
@@ -230,9 +229,11 @@ pre code.hljs {
 
         p {
           width: 65%;
+          min-width: 400px;
           margin: auto;
           padding-bottom: 8px;
-          min-width: 500px;
+          padding-left: 4px;
+          padding-right: 4px;
         }
         
 		.tags {
@@ -306,10 +307,16 @@ pre code.hljs {
     }
 
     iframe {
-      margin-left: 13%;
-      width: 73%;
-      height: auto;
-      min-height: 550px;
+      width: 100%;
+      min-height:0px;
+      margin-left: 10px;
+      
+      @include media($mobile) {
+        margin-left: 13%;
+        width: 73%;
+        height: auto;
+        min-height: 550px;
+      }
     }
 
     iframe#dsq-app1 {
