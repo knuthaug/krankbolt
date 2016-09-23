@@ -27,7 +27,8 @@ Første dagen ble brukt i fjellene over St. Luc. Vi tok første funikular opp 8 
   <img src="/assets/sveits3_s.jpg" title="Singletrack mania" />
 </a>
 
-Under lunsjen (safran-risotte med Weissbier til) ble det litt diskusjon om hvilken sti vi skulle ta fra Hotel Weisshorn på slutten av dagen, men vi endte til slutt opp med gullfunnet, selv om vi tok en liten omvei som hadde litt knot i seg. Og for en sti! Ca. 14 kilometer med singeltrack som først snodde seg langs en fjellside før den skar ned i dalen og fortsatt nede i skogen, hele veien på tvers av høydekurvene og en perfekt vinkel nedover. Det måtte flere stopp til for å kjøle ned overopphetede bremser. 
+Under lunsjen (safran-risotto med Weissbier til) ble det litt diskusjon om hvilken sti vi skulle ta fra Hotel Weisshorn på slutten av dagen, men vi endte til slutt opp med gullfunnet, selv om vi tok en liten omvei som hadde litt knot i seg. Og for en sti! Ca. 14 kilometer med singeltrack som først snodde seg langs en fjellside før den skar ned i dalen og fortsatt nede i skogen, hele veien på tvers av høydekurvene og en perfekt vinkel nedover. Det måtte flere stopp til for å kjøle ned overopphetede bremser. 
+
 
 <a href="/assets/sveits4_b.jpg" data-lightbox="dogstar-1" data-title="Singletrack mania">
   <img src="/assets/sveits4_s.jpg" title="Singletrack mania" />
