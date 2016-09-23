@@ -21,7 +21,7 @@ Første dagen ble brukt i fjellene over St. Luc. Vi tok første funikular opp 8 
 
 <p class="img"><img class="wide" src="/assets/sveits2b_b.jpg" alt="" width="1800" height="1350" srcset="/assets/sveits2b_b.jpg 1800w, /assets/sveits2b_s.jpg 900w"></p>
 
-<p class="img"><img class="wide" src="/assets/sveits2_b.jpg" alt="Sveitserne setter opp store trekors overalt." width="1800" height="1350" srcset="/assets/sveits2_b.jpg 1800w, /assets/sveits2_s.jpg 900w"></p>
+<p class="img"><img class="wide" src="/assets/sveits2_b.jpg" alt="Sveitserne setter opp store trekors overalt." width="1900" height="1350" srcset="/assets/sveits2_b.jpg 1900w, /assets/sveits2_s.jpg 900w"></p>
 
 <a href="/assets/sveits3_b.jpg" data-lightbox="dogstar-1" data-title="Singletrack mania">
   <img src="/assets/sveits3_s.jpg" title="Singletrack mania" />
