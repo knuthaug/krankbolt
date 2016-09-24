@@ -81,7 +81,6 @@ pre code.hljs {
    vertical-align: bottom;
 }
 
-
 .site-header-container, .post-header-container {
 	width: 100%;
 	text-align: center;
@@ -211,7 +210,7 @@ pre code.hljs {
 
 .page-content {
 	.wrapper {
-		@include outer-container;
+		@include outer-container(54em);
 		padding: 1em;
 
         p {
@@ -225,7 +224,10 @@ pre code.hljs {
             width: 100%;
             margin: auto;
 		}
-
+        .disqus {
+          width: 100%;
+          margin: auto;
+		}
 
 	}
 	.wide-wrapper {
@@ -247,6 +249,10 @@ pre code.hljs {
             margin: auto;
 		}
 
+		.disqus {
+          width: 65%;
+          margin: auto;
+		}
 	}
 	/*
 	*	index.html
@@ -381,10 +387,6 @@ pre code.hljs {
 				text-decoration: none;
 			}
 		}
-		.disqus {
-          width: 75%;
-          margin: auto;
-		}
 		.post-navigation {
 			font-size: 0.9em;
 			display: block;
@@ -512,7 +514,7 @@ pre code.hljs {
 		}
 		font-size: 0.9em;
 		a {
-			text-decoration: underline;
+			text-decoration: none;
 		}
 	}
 }
