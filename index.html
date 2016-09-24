@@ -21,7 +21,10 @@ layout: default
     </h2>
     <section class="post-excerpt" itemprop="description">
       {% if post.image %} 
-        <a href="{{ post.url | prepend: site.baseurl }}"><div class="post-picture" style="background-image: url({{post.image}});"> </div></a>
+        <a href="{{ post.url | prepend: site.baseurl }}"><div class="post-picture" style="background-image: url({{post.image}});">         {% if post.leadtext %} 
+        <p>{{ post.content | strip_html | truncatewords: 35 }}</p>
+        {% endif %}
+        </div></a>
       {% else %}
       <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
       {% endif %}

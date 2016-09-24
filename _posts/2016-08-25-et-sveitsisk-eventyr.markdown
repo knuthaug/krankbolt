@@ -3,6 +3,8 @@ layout: widepost
 title: "Et sveitsisk eventyr"
 date: 2016-08-25
 published: true
+image: /assets/sveits12_s.jpg
+leadtext: true
 tags: tur sveits alpene sti
 categories: Turer 
 ---
