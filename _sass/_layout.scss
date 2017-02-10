@@ -234,6 +234,14 @@ pre code.hljs {
 		@include outer-container(100%);
 		padding: 1em 0;
 
+    ul {
+
+        width: 65%;
+    }
+
+    h2, h3, h4, h5, h6 {
+        margin-left: 18%;
+    }
         p {
           width: 65%;
           min-width: 400px;
