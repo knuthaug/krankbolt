@@ -5,7 +5,7 @@ date: 2017-03-04
 image: /assets/sko_s.jpg
 published: true
 tags: stash shimano mavic enduro
-categories: 
+categories: Stash
 ---
 
 Ingen vintersesong er komplett uten litt stash på vei inn for å korte ned ventetiden. Et saftig tilbud på Rasta Sykkel var ikke til å motstå og nye sko havnet i handleposen. Mavic Crossmax i frekk gulfarge. Eneste problemet jeg har nå er at jeg ikke har noen klær eller annet utstyr som passer! Krise!
