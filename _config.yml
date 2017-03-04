@@ -25,7 +25,7 @@ logo:
 
 # Build settings
 markdown: kramdown
-paginate: 8
+paginate: 10
 paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai_sublime"
@@ -49,13 +49,13 @@ ga_tracking_id: "UA-43542100-1"
 # Category descriptions (for archive pages)
 descriptions:
   - cat: Ritt
-    desc: "Rittrapporter"
+    desc: "Her skal det gå fort. "
 
   - cat: Stash
-    desc: "Stæsj"
+    desc: "Stæsj og dingser"
 
   - cat: Trening
-    desc: "Trening"
+    desc: "Trening, trening og atter trening. "
 
   - cat: Turer
     desc: "Ut på tur, nesten aldri sur."

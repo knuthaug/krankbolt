@@ -4,7 +4,7 @@ title: "Endurostash for ny sesong"
 date: 2017-03-04
 image: /assets/sko_s.jpg
 published: true
-tags: stash shimano mavic enduro
+tags: shimano mavic enduro sko pedaler
 categories: Stash
 ---
 
