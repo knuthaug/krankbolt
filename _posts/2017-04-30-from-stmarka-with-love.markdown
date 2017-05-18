@@ -8,7 +8,7 @@ tags: tur østmarka sandbakken
 categories: Turer 
 ---
 
-Når ungene er ute av huset på speidertur blir det endelig tid for far til å sykle ordentlig langtur på dagtid. Planen ble lagt for Østmarka sør-nord med ganske snorrette valg. Startet fra Ekerud med Langåsen og deretter opp på Gardfangåsen som dessverre var litt snøfull og veldig våt. Langs Elvåga og så vestsiden av Vidvangåsen til Sandbakken. Da ble det velfortjent bolle og cola!
+Når ungene er ute av huset på speidertur blir det endelig tid for far til å sykle ordentlig langtur på dagtid. Planen ble lagt for Østmarka sør-nord med ganske snorrette valg. Startet fra Ekerud med Sæteråsen og deretter opp på Gardfangåsen som dessverre var litt snøfull og veldig våt. Langs Elvåga og så vestsiden av Vidvangåsen til Sandbakken. Da ble det velfortjent bolle og cola! Vidvangåsen var veldig fint og tørr.
 
 <a href="/assets/tur1.jpg" data-lightbox="tur-1" data-title="Flest skilt per skiltstoplpe?">
   <img src="/assets/tur1.jpg" title="Flest skilt per skiltstolpe">
