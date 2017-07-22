@@ -2,7 +2,7 @@
 layout: post
 title: "Nyoppdaget stibonanza"
 date: 2017-07-14
-published: true
+published: false
 tags: sti mtbmap kart losby 
 categories: Misc
 ---
