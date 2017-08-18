@@ -62,7 +62,7 @@ Så er det flere små ting som har kommet til.
   <img src="/assets/stisykkel8.jpg" title="K-edge garmin-holder">
 </a>
 
-Et lite ninja.triks op slutten. Etter å ga fjernet framgir og twinlock-kabelen til bakdemperen ble det to hull i ramme til overs. Her kan det komme inn alskens skitt så disse ble tettet med svart sugru. Dette _kunne_ kanskje sett litt bedre ut, men det er funksjonelt. 
+Et lite ninja-triks på slutten. Etter å ha fjernet framgir og twinlock-kabelen til bakdemperen ble det to hull i ramma til overs. Her kan det komme inn alskens skitt så disse ble tettet med svart sugru. Dette _kunne_ kanskje sett litt bedre ut, men det er funksjonelt. 
 
 <a href="/assets/stisykkel9.jpg" data-lightbox="sti-1" data-title="Hull i ramma tettet med sugru">
   <img src="/assets/stisykkel9.jpg" title="Hull i ramma plugget med sugru">
