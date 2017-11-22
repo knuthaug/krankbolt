@@ -69,6 +69,11 @@ pre code.hljs {
   }
 }
 
+iframe {
+    width: 70%;
+}
+
+
 .post-picture {
    background-position: 50% 50%;
    background-size: cover;
@@ -326,13 +331,13 @@ pre code.hljs {
     }
 
     iframe {
-      width: 100%;
+      width: 90%;
       min-height:0px;
       margin-left: 10px;
       
       @include media($mobile) {
-        margin-left: 13%;
-        width: 73%;
+        margin-left: 18%;
+        width: 65%;
         height: auto;
         min-height: 550px;
       }
