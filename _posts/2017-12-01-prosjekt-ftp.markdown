@@ -30,4 +30,4 @@ Så da endte det opp med en plan om å stort sett følge klubbens treningsprogra
 |49| 2017-12-06 | 10x3 (5x85%m 5x90%) 1x20@85% 1x2@125%                                     | Tung som fy. 10x3 var altfor lett så måtte legge på ekstra drag.  |
 |49| 2017-12-07 | Styrke | ok |
 |49  | 2017-12-08 | 5x10@85% | Knalløkt |
-| | | |
+|49 | 2017-12-09| 2x5 @ 88% + 2x6 på stigende opptil 100% | Litt lett og kort. Må Tråkke til i morgen kjenner jeg.  |
