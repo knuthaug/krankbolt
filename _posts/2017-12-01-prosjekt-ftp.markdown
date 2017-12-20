@@ -33,3 +33,10 @@ Så da endte det opp med en plan om å stort sett følge klubbens treningsprogra
 |49 | 2017-12-09| 2x5 @ 88% + 2x6 på stigende opptil 100% | Litt lett og kort. Må Tråkke til i morgen kjenner jeg. |
 |49| 2017-12-10| 2x20 over/under (2m@100%/3m@90%) | Rimelig tung økt, men holdt ut. |
 |50| 2017-12-13| Stensløkkens variasjoner. Diverse intervaller over og under terskel | Grave dypt og godt.  |
+|50| 2017-12-14 | Løping på mølle og styrke | |
+|50| 2017-12-15 |  Utendørs på sti | Frisk luft! |
+|50| 2017-12-16 | 2x20 + 1x10 @88-90% | God terskel/sst økt |
+|51| 2017-12-18| 2x15 på FTP og så 32k race| Slitsomt!  |
+|51| 2017-12-19| Styrke| |
+|51|2017-12-20| 4x4@115%| Første 4x4 på en stund. Sto distansen godt, kunne kanskje kjørt litt høyere  |
+|51|||
