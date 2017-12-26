@@ -42,4 +42,4 @@ Så da endte det opp med en plan om å stort sett følge klubbens treningsprogra
 |51|2017-12-21| Innebandykamp mot juniors lag | støl både her og der| 
 |51|2017-12-22| Stitur på Ekerud | Lite terskelrettet |
 |51|2017-12-23| 2x30min over@98%/under@85% | Ganske så hardt |
-|51|2017-12-24 ||
+|51|2017-12-25 | Stitur på Lysås. Terskel-ish | bra for hodet |
