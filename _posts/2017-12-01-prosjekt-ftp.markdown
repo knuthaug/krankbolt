@@ -43,4 +43,6 @@ Så da endte det opp med en plan om å stort sett følge klubbens treningsprogra
 |51|2017-12-22| Stitur på Ekerud | Lite terskelrettet |
 |51|2017-12-23| 2x30min over@98%/under@85% | Ganske så hardt |
 |52|2017-12-25 | Stitur på Lysås. Terskel-ish | bra for hodet |
-|52|2017-12-26 | 2x28(8x3@100%, 30s pause) | Rimelig tung økt.  |
+|52|2017-12-26 | 2x28(8x3@100%, 30s pause) | Rimelig tung økt.    |
+|52|2017-12-27 | jogg 1x4k på 4:40, 2x1200 på 3:50 | glatt underlag |
+|52|2017-12-29 | 3x7:30 30/15 @125-130% | ok, ikke så tung.  |
