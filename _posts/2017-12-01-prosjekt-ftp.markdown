@@ -46,3 +46,4 @@ Så da endte det opp med en plan om å stort sett følge klubbens treningsprogra
 |52|2017-12-26 | 2x28(8x3@100%, 30s pause) | Rimelig tung økt.    |
 |52|2017-12-27 | jogg 1x4k på 4:40, 2x1200 på 3:50 | glatt underlag |
 |52|2017-12-29 | 3x7:30 30/15 @125-130% | ok, ikke så tung.  |
+|52|2017-12-30 | 10k ritt (15min over terskel)   | 10 watt høyere enn sist. Justerer FTP til 250 selv om test egentlig var planlagt til 15/1 |
