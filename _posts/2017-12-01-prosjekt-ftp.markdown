@@ -17,39 +17,43 @@ Så da endte det opp med en plan om å stort sett følge klubbens treningsprogra
 
 ### Dagbok
 
-| Uke  | Dato | Økt | Kommentar |
-|---|---|---|---|
-|48 | 2017-11-27 | FTP-test | Var ikke helt frisk i beina og scoret nok litt dårlig. Satte den til 240w på magefølelse.  |
-|48 | 2017-11-28 | 5x4 elghufs i bakke | Første elghufs-økt. Bra puls, men kunne tatt i litt mer. |
-|48 | 2017-11-30 | 1x20@83% + 4x4 @100% | Knalløkt. Ganske slitsom men klarte å gjennomføre bra. |
-|48| 2017-12-01 | 2x20 @83% | Bra. |
-|48| 2017-12-02 | 1x20 over terskel | Første swift-ritt. Skulle egentlig kjøre lenger ritt, men kløna litt med eventet. |
-|48| 2017-12-03 | Skitur med Eira og styrke | lett dag |
-|49 | 2017-12-04 | 4x20s spurt + 3x10@85% + 1x2m @ 125%| Tungt.  |
-|49 | 2017-12-05 | 5x3 bakkeløp | Middels tung. Skulle hatt lenger bakke.  |
-|49| 2017-12-06 | 10x3 (5x85%m 5x90%) 1x20@85% 1x2@125%                                     | Tung som fy. 10x3 var altfor lett så måtte legge på ekstra drag.  |
-|49| 2017-12-07 | Styrke | ok |
-|49  | 2017-12-08 | 5x10@85% | Knalløkt |
-|49 | 2017-12-09| 2x5 @ 88% + 2x6 på stigende opptil 100% | Litt lett og kort. Må Tråkke til i morgen kjenner jeg. |
-|49| 2017-12-10| 2x20 over/under (2m@100%/3m@90%) | Rimelig tung økt, men holdt ut. |
-|50| 2017-12-13| Stensløkkens variasjoner. Diverse intervaller over og under terskel | Grave dypt og godt.  |
-|50| 2017-12-14 | Løping på mølle og styrke | |
-|50| 2017-12-15 |  Utendørs på sti | Frisk luft! |
-|50| 2017-12-16 | 2x20 + 1x10 @88-90% | God terskel/sst økt |
-|51| 2017-12-18| 2x15 på FTP og så 32k race| Slitsomt!  |
-|51| 2017-12-19| Styrke| |
-|51|2017-12-20| 4x4@115%| Første 4x4 på en stund. Sto distansen godt, kunne kanskje kjørt litt høyere  |
-|51|2017-12-21| Innebandykamp mot juniors lag | støl både her og der| 
-|51|2017-12-22| Stitur på Ekerud | Lite terskelrettet |
-|51|2017-12-23| 2x30min over@98%/under@85% | Ganske så hardt |
-|52|2017-12-25 | Stitur på Lysås. Terskel-ish | bra for hodet |
-|52|2017-12-26 | 2x28(8x3@100%, 30s pause) | Rimelig tung økt.    |
-|52|2017-12-27 | jogg 1x4k på 4:40, 2x1200 på 3:50 | glatt underlag |
-|52|2017-12-29 | 3x7:30 30/15 @125-130% | ok, ikke så tung.  |
-|52|2017-12-30 | 10k ritt (15min over terskel)   | 10 watt høyere enn sist. Justerer FTP til 250 selv om test egentlig var planlagt til 15/1 |
-|1| 2018-01-01 | 2x30min over@96%/under@86% | Ganske så hardt. Klarte ikke å gjennomføre alle intervallene 100% |
-|1| 2018-01-03 | 4x10 @90% | Brukbar tung denne og.  |
-|1| 2018-01-04 | 4x4@112-114% | Måtte jukse litt på siste. |
-|1| 2018-01-05 | 2 timer langrenn | Godt for sjela|
-|1| 2018-01-06 | 2x20@84%+1x10@88% | Holdt bra distansen |
-|1| 2018-01-07 | Halvharde stirunder ute | Bra greier.  |
+| Uke |       Dato | Økt                                                                 | Kommentar                                                                                 |
+|-----|------------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|  48 | 2017-11-27 | FTP-test                                                            | Var ikke helt frisk i beina og scoret nok litt dårlig. Satte den til 240w på magefølelse. |
+|  48 | 2017-11-28 | 5x4 elghufs i bakke                                                 | Første elghufs-økt. Bra puls, men kunne tatt i litt mer.                                  |
+|  48 | 2017-11-30 | 1x20@83% + 4x4 @100%                                                | Knalløkt. Ganske slitsom men klarte å gjennomføre bra.                                    |
+|  48 | 2017-12-01 | 2x20 @83%                                                           | Bra.                                                                                      |
+|  48 | 2017-12-02 | 1x20 over terskel                                                   | Første swift-ritt. Skulle egentlig kjøre lenger ritt, men kløna litt med eventet.         |
+|  48 | 2017-12-03 | Skitur med Eira og styrke                                           | lett dag                                                                                  |
+|  49 | 2017-12-04 | 4x20s spurt + 3x10@85% + 1x2m @ 125%                                | Tungt.                                                                                    |
+|  49 | 2017-12-05 | 5x3 bakkeløp                                                        | Middels tung. Skulle hatt lenger bakke.                                                   |
+|  49 | 2017-12-06 | 10x3 (5x85%m 5x90%) 1x20@85% 1x2@125%                               | Tung som fy. 10x3 var altfor lett så måtte legge på ekstra drag.                          |
+|  49 | 2017-12-07 | Styrke                                                              | ok                                                                                        |
+|  49 | 2017-12-08 | 5x10@85%                                                            | Knalløkt                                                                                  |
+|  49 | 2017-12-09 | 2x5 @ 88% + 2x6 på stigende opptil 100%                             | Litt lett og kort. Må Tråkke til i morgen kjenner jeg.                                    |
+|  49 | 2017-12-10 | 2x20 over/under (2m@100%/3m@90%)                                    | Rimelig tung økt, men holdt ut.                                                           |
+|  50 | 2017-12-13 | Stensløkkens variasjoner. Diverse intervaller over og under terskel | Grave dypt og godt.                                                                       |
+|  50 | 2017-12-14 | Løping på mølle og styrke                                           |                                                                                           |
+|  50 | 2017-12-15 | Utendørs på sti                                                     | Frisk luft!                                                                               |
+|  50 | 2017-12-16 | 2x20 + 1x10 @88-90%                                                 | God terskel/sst økt                                                                       |
+|  51 | 2017-12-18 | 2x15 på FTP og så 32k race                                          | Slitsomt!                                                                                 |
+|  51 | 2017-12-19 | Styrke                                                              |                                                                                           |
+|  51 | 2017-12-20 | 4x4@115%                                                            | Første 4x4 på en stund. Sto distansen godt, kunne kanskje kjørt litt høyere               |
+|  51 | 2017-12-21 | Innebandykamp mot juniors lag                                       | støl både her og der                                                                      |
+|  51 | 2017-12-22 | Stitur på Ekerud                                                    | Lite terskelrettet                                                                        |
+|  51 | 2017-12-23 | 2x30min over@98%/under@85%                                          | Ganske så hardt                                                                           |
+|  52 | 2017-12-25 | Stitur på Lysås. Terskel-ish                                        | bra for hodet                                                                             |
+|  52 | 2017-12-26 | 2x28(8x3@100%, 30s pause)                                           | Rimelig tung økt.                                                                         |
+|  52 | 2017-12-27 | jogg 1x4k på 4:40, 2x1200 på 3:50                                   | glatt underlag                                                                            |
+|  52 | 2017-12-29 | 3x7:30 30/15 @125-130%                                              | ok, ikke så tung.                                                                         |
+|  52 | 2017-12-30 | 10k ritt (15min over terskel)                                       | 10 watt høyere enn sist. Justerer FTP til 250 selv om test egentlig var planlagt til 15/1 |
+|   1 | 2018-01-01 | 2x30min over@96%/under@86%                                          | Ganske så hardt. Klarte ikke å gjennomføre alle intervallene 100%                         |
+|   1 | 2018-01-03 | 4x10 @90%                                                           | Brukbar tung denne og.                                                                    |
+|   1 | 2018-01-04 | 4x4@112-114%                                                        | Måtte jukse litt på siste.                                                                |
+|   1 | 2018-01-05 | 2 timer langrenn                                                    | Godt for sjela                                                                            |
+|   1 | 2018-01-06 | 2x20@84%+1x10@88%                                                   | Holdt bra distansen                                                                       |
+|   1 | 2018-01-07 | Halvharde stirunder ute  | Bra greier. |
+|   2 | 2018-01-09 | 3x15 over/under (3@100%/2@88%)  |Ble ganske hardt her også |
+|   2 | 2018-01-10 | 7.5k jogg i 4:35 tempo  | |
+|   2 | 2018-01-11 | 3x20@83% | go'økt. |        
+
