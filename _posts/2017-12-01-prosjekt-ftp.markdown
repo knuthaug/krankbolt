@@ -56,8 +56,8 @@ Så da endte det opp med en plan om å stort sett følge klubbens treningsprogra
 |   2 | 2018-01-09 | 3x15 over/under (3@100%/2@88%)  |Ble ganske hardt her også |
 |   2 | 2018-01-10 | 7.5k jogg i 4:35 tempo  | |
 |   2 | 2018-01-11 | 3x20@83% | go'økt. | 
-| 3 | 2018-01-12 | 2x18 over/under (3@102%/3@94%) ||
-| 3 | 2018-01-14| 1x20 og 3x5 ish på terskel ||
+| 2 | 2018-01-12 | 2x18 over/under (3@102%/3@94%) ||
+| 2 | 2018-01-14| 1x20 og 3x5 ish på terskel ||
 | 3 | 2018-01-17 | 3x15 over/under (3@100%/2@88%)| |
 | 3 | 2018-01-21| 3x30 Over/under (5min@95%/5min@85%)| |
 | 4 | 2018-01-25| 6x3@105% + 5x1@115% + 6x30s@130%||
