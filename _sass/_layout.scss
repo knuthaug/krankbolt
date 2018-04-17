@@ -336,7 +336,7 @@ iframe {
       margin-left: 10px;
       
       @include media($mobile) {
-        margin-left: 18%;
+        margin-left: 0%;
         width: 65%;
         height: auto;
         min-height: 550px;
