@@ -16,7 +16,7 @@ Så er første dugnad på Ekerudstiene gjennomført. Det tok en del mere tid enn
   <img src="/assets/klopp2.jpg" title="Dugnadsgjeng i full sving">
 </a>
 
-Jeg valgte å forhåndskappe materialer til topplaget hjemme for å spare tid i skogen. Den delen av planen fungerte fint, men jeg undervurderte tidsbruk (og krefter) på å bære materialer ut i skogen. Alle disse kloppene er relativt nærme utfartsparkeringen, men det er likevel tungt å bære grove bjelker ut i skogen. Jeg dro igang en dugnad på LCKs facebooksider og vi klarte å dra i gang en rask dugnad med 6 personer. Den gjengen fikk opp 4 klopper på tre timer med uhyre effektiv jobbing. 
+Jeg valgte å forhåndskappe materialer til topplaget hjemme for å spare tid i skogen. Den delen av planen fungerte fint, men jeg undervurderte tidsbruk (og krefter) på å bære materialer ut i skogen. Alle disse kloppene er relativt nærme utfartsparkeringen, men det er likevel tungt å bære grove bjelker ut i skogen. Jeg dro igang en dugnad på LCKs facebooksider og vi klarte å dra i gang en rask dugnad med 6 personer. Den gjengen fikk opp 4 klopper på tre timer med uhyre effektiv jobbing. kloppene ble bygd med 48x098 lekter som underliggere og 28x120 terrassebord på toppen. I etterkant skulle jeg nok valgt litt grovere materialer under, men med maks 3 meter spenn, regner jeg med at det holder. Grovere materialer ville betydd enda mere tid og krefter til bæring. 
 
 <a href="/assets/bilde1.jpg" data-lightbox="sti-1" data-title="Før og etter-klopp">
   <img src="/assets/bilde1.jpg" title="før og etter-klopp">
