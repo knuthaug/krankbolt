@@ -21,9 +21,9 @@ Etappe 2 går bra, og jeg får bra fart. Kjører forbi to stykker foran meg men 
 <p class="img"><img class="wide" src="/assets/drammenduro4.jpg" alt="" width="1000" height="1151" srcset="/assets/drammenduro4.jpg 2000w, /assets/drammenduro4.jpg 1000w"></p>
 
 
-Etappe 3 er min beste etappe selv med en full stans i et lite tre helt mot slutten. En nydelig etappe forresten, kanskje den aller fineste på rittet. 
+Etappe 3 er min beste etappe selv med en full stans i et lite tre helt mot slutten. En nydelig etappe forresten, kanskje den aller fineste på rittet. Flyt og fart selv med litt steinete partier. 
 
-Utover dagen blir det ekstremt varmt og det blir en laaaang dag i sola. Men hvem bryr seg når det ser sånn ut mellom etappe 3 og 4? Det var en drøy klatring opp hit, men fantastisk fint der oppe. Fristet litt med et bad, kan du si. 
+Utover dagen blir det ekstremt varmt og det blir en laaaang dag i sola. Men hvem bryr seg når det ser sånn ut mellom etappe 3 og 4? Det var en drøy klatring opp hit, men fantastisk fint der oppe. Fristet litt med et bad, kan du si, men det ble det ikke tid til. Begynte allerede å komme på etterskudd i forhold til starttidene på etappene, men det var ikke bare meg som lå etter. 
 
 <p class="img"><img class="wide" src="/assets/drammenduro2.jpg" alt="" width="1000" height="1152" srcset="/assets/drammenduro2.jpg 2000w, /assets/drammenduro2.jpg 1000w"></p>
 
@@ -37,6 +37,7 @@ Etappe-plasseringene var 59. på første, 51. på andre, 31. på tredje, 41. på
 
 Jeg fikk somlet meg til et legebesøk på onsdagen etter og dommen var 3 forslåtte/brukne ribbein. Paralgin forte og EKG + CT var dommen, siden ribbeinsbrudd over hjertet kan være litt skumle greier. Vi får se hvordan det går ;-)
 
+Stravalogg: <a href="https://www.strava.com/activities/1674388353">https://www.strava.com/activities/1674388353</a>
 
 
 
