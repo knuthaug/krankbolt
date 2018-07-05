@@ -64,4 +64,4 @@ Så da endte det opp med en plan om å stort sett følge klubbens treningsprogra
 | 4 | 2018-01-26| 1x30 + 2x5 + 1x10 ||
 | 4 | 2018-01-27| 4x10@85% | Nyjustert FTP til 260. Tungt.  |
 | 5 | 2018-01-29 | 2x20 over/under (2@100%/3@88%) | Tungt, men såvidt gjennomført. |
-| 5 | 2018-01-31 | 30/15: 3x12@  | Godt og hardt. |
+| 6 | 2018-01-31 | 30/15: 3x12@120% | Godt og hardt. |

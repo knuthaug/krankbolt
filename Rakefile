@@ -46,7 +46,7 @@ task :post do
 end # task :post
 
 task :deploy do
-  exec("rsync -e ssh -a _site/ knuthaugen@login.domeneshop.no:www/krankbolt/")
+  exec("rsync -e ssh -a _site/ knuthaugen@scp.domeneshop.no:www/krankbolt/")
 end
 
 #Load custom rake scripts
