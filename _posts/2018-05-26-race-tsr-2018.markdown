@@ -4,7 +4,7 @@ title: "Ritt: TSR 2018"
 date: 2018-05-26
 published: true
 tags: race,tsr,ritt
-categories: ritt
+categories: Ritt
 ---
 
 <a href="/assets/tsr2018.jpg" data-lightbox="sti-1" data-title="Klar til start">
