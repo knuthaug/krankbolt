@@ -4,7 +4,7 @@ title: "Litt cross på tampen av sesongen"
 date: 2018-11-17
 published: true
 tags: ritt, cross
-categories: ritt
+categories: Ritt
 ---
 
 Etter litt sykdom på høsten ble cross-ambisjonene kraftig nedskalert og det endte bare opp med et eneste crossritt på meg i år. Ambisjonene var en 3-4 men sånn ble det ikke. Og det rittet ble ikke den helt store oppturen heller. 

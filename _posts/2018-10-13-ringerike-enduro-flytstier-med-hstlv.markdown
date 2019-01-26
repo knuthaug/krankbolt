@@ -4,7 +4,7 @@ title: "Ringerike Enduro: Flytstier med høstløv"
 date: 2018-10-13
 published: true
 tags: ritt enduro
-categories: ritt 
+categories: Ritt 
 ---
 
 Mitt siste enduroritt i år ble Ringerike Enduro, som også er sesongavslutteren i Norge. Det går i skogene bak Eggemoen flyplass og er et veldig kompakt ritt. Man er innom sekretariatet mellom alle etappene og kan fylle flaskene og ta seg en matbit når det passer. Samtidig er det et ganske kompakt ritt med nookså korte etapper med beskjedent antall høydemeter. Men stiene var av upåklagelig kvalitet og var tørre og fine til tross for årstiden. I år ble 1. etappe kjørt to ganger, først og sist og man fikk mulighet til å tjene enn litt tid på andre runde. 3. etappe var derimot den tøffeste med drøye 6 1/2 minutt mde mange tekniske utfordringer. Personlig klarte jeg å knappe inn 4 sekunder på 1./4. etappe og var vel sånn passe fornøyd med det. 
