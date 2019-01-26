@@ -4,7 +4,7 @@ title: "Trainerroad er veien fram"
 date: 2018-03-17
 published: true
 tags: trening
-categories: trening
+categories: Trening
 ---
 
 Jeg startet vintersesongen med [Zwift](http://zwift.com) og fikk fornyet tro på rullelivet og vintertreningen. Men etter en stund syntes jeg det ble litt ensformig og når jeg også etter en stund oppdaget podcasten til [Trainerroad](http://trainerroad.com) og deres fokus på treningsplaner framfor game-følelse, tenkte jeg at det skulle prøves isteden. Jeg innså relativt raskt at jeg ikke ville kunne klare å sette opp tilsvarende planer på egenhånd og de virker svært gjennomtenkte. De deler opp i tre faser, base (grunntrening på tidlig vinter), build (øke ftp og starte på spesialisering) og specialty til slutt som er veldig spesifikt for hva slags ritt man skal sykle. Jeg kommer nok ikke til å følge et helt specialty program men vil prøve å ta over noen økter til ute-treningen når den tid kommer (om den kommer, er jo fortsatt en meter snø her).

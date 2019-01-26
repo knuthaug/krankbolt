@@ -4,7 +4,7 @@ title: "Klopper bygd"
 date: 2018-06-06
 published: true
 tags: nots, sti, klopper
-categories: misc
+categories: Misc
 image: /assets/klopp2_long.jpg
 ---
 
