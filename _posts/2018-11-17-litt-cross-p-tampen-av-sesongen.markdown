@@ -3,7 +3,7 @@ layout: widepost
 title: "Litt cross på tampen av sesongen"
 date: 2018-11-17
 published: true
-tags: ritt, cross
+tags: ritt cross
 categories: Ritt
 ---
 

@@ -3,7 +3,7 @@ layout: widepost
 title: "Oslo Enduro: Teknisk og glatt, men moro lell"
 date: 2018-08-19
 published: true 
-tags: ritt,enduro
+tags: ritt enduro
 categories: Ritt
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Enduro for nybegynnere"
 date: 2018-10-17
 published: true
-tags: enduro, intro
+tags: enduro intro
 categories: Misc
 ---
 

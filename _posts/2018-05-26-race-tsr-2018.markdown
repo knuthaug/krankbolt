@@ -3,7 +3,7 @@ layout: post
 title: "Ritt: TSR 2018"
 date: 2018-05-26
 published: true
-tags: race,tsr,ritt
+tags: race tsr ritt
 categories: Ritt
 ---
 

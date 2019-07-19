@@ -4,7 +4,7 @@ title: "Drammenduro 2018: Knekte ribbein og støv i lungene"
 date: 2018-07-01
 image: /assets/drammenduro1_smal.jpg
 published: true
-tags: ritt,enduro,drammen
+tags: ritt enduro drammen
 categories: Ritt
 ---
 

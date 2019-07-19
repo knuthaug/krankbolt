@@ -3,7 +3,7 @@ layout: post
 title: "Klopper bygd"
 date: 2018-06-06
 published: true
-tags: nots, sti, klopper
+tags: nots sti klopper
 categories: Misc
 image: /assets/klopp2_long.jpg
 ---
